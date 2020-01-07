@@ -18,7 +18,7 @@ customize:
     favicon: favicon.ico # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         github: https://github.com/zirho
-        linkedin: https://www.linkedin.com/in/johsua-ji
+        linkedin: https://www.linkedin.com/in/joshua-ji/
 
 # Widgets
 widgets:
